@@ -31,7 +31,5 @@
 
 
 
-Prioridades corretas e uma boa administração do tempo exigem uma consciência de que hoje é o único momento que temos para agir.
-O passado é irrevogavelmente findo, e o futuro é apenas uma possibilidade.
 
 ## larijeek@gmail.com
