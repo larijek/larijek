@@ -3,6 +3,10 @@
 
 👩 Pronomes: Ela/Dela
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a48height=120&section=header"/>
+
+
+
 <div style="display: inline_block"><br>
 <img aligh="center" alt="Lari-Js" height="30" widht="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img aligh="center" alt="Lari-HTML5" height="30" widht="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,7 +30,7 @@
 
   ![picasion com_6317527141773cdf953d40ac5a2ec6f1 (1)](https://user-images.githubusercontent.com/112007806/212157005-484a0f7f-e70e-4f3a-bdfc-dac5cff57e6b.gif)
 
-  <img width=100% src="https://capsule.render.vercel.app/api?type=wavingacolor=ff91a48height=120&section=header"/>
+
 
 
 
