@@ -3,7 +3,7 @@
 
 👩 Pronomes: Ela/Dela
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#EE82EEheight=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF1493=120&section=header"/>
 
 
 
