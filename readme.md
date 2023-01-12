@@ -4,6 +4,8 @@
 👩 Pronomes: Ela/Dela
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3=120&section=header"/>
+[!Typing SVG](https://readme-typing-svg.herokuapp.com/?
+color=ff91a4&size=35&center=true&width=1000&lines=HELLO,+MY+NAME+IS+LARISSA +ALVES;I'm+23YEARS+OLD;I+FROM+BRAZIL;I'M+PROGRAMMING+STUDENT;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 
 
