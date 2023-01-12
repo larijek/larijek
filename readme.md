@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Larissa Alves 👋😀
 
-🖥️Atualmente estou aprendendo TypeScript e React Native
-👩 Pronomes: Ela/Dela
+##🖥️Atualmente estou aprendendo TypeScript e React Native
+##👩 Pronomes: Ela/Dela
 
 [!][linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-almeida-63ab73160)
 
