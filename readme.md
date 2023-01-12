@@ -46,6 +46,8 @@
 </div>
 
   
+   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=larijeek)
+ 
 ![picasion com_6317527141773cdf953d40ac5a2ec6f1 (1)](https://user-images.githubusercontent.com/112007806/212157005-484a0f7f-e70e-4f3a-bdfc-dac5cff57e6b.gif)
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
