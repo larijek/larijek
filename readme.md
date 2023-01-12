@@ -21,10 +21,12 @@
 
 
 
+![picasion com_6317527141773cdf953d40ac5a2ec6f1 (1)](https://user-images.githubusercontent.com/112007806/212157005-484a0f7f-e70e-4f3a-bdfc-dac5cff57e6b.gif)
 
-<img aligh="right" width="50" ![picasion com_6317527141773cdf953d40ac5a2ec6f1 (1)](https://user-images.githubusercontent.com/112007806/212157005-484a0f7f-e70e-4f3a-bdfc-dac5cff57e6b.gif)
 
-
+  ##
+<div>
+<a href="https://www.linkedin.com/in/larissa-almeida-63ab73160" target="_blank" ><img src"https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 
 
 
