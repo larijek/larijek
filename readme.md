@@ -24,6 +24,9 @@
 <a href="https://www.instagram.com/larijekdev/" target="_blank" ><img src"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+  ![picasion com_6317527141773cdf953d40ac5a2ec6f1 (1)](https://user-images.githubusercontent.com/112007806/212157005-484a0f7f-e70e-4f3a-bdfc-dac5cff57e6b.gif)
+
+  <img width=100% src="https://capsule.render.vercel.app/api?type=wavingacolor=ff91a48height=120&section=header"/>
 
 
 
