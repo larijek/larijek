@@ -44,11 +44,12 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{larijek}/count.svg" /></p> 
 <br>
 </div>
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
   
 ![picasion com_6317527141773cdf953d40ac5a2ec6f1 (1)](https://user-images.githubusercontent.com/112007806/212157005-484a0f7f-e70e-4f3a-bdfc-dac5cff57e6b.gif)
 
-
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
  
