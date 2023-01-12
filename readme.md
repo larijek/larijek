@@ -15,6 +15,7 @@
 <img aligh="center" alt="Lari-vue" height="30" widht="40" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img aligh="center" alt="Lari-angular" height="30" widht="40" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 <img aligh="right" alt="Lari" src="C:\Users\larij\Downloads\picasion.com_6317527141773cdf953d40ac5a2ec6f1 (1).gif">
+<div/>
 
 
 
