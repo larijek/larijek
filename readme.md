@@ -1,10 +1,13 @@
 ### Olá! Eu sou a Larissa Alves 👋😀
 
+🖥️Atualmente estou aprendendo TypeScript e React Native
+👩 Pronomes: Ela/Dela
+
 [!][linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-almeida-63ab73160)
 
 [!][instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larijek0/)
 
-![larijek GitHub stats](https://github-readme-stats.vercel.app/api?username=larijek&show_icons=true&theme=gruvbox)
+![larijek's GitHub stats](https://github-readme-stats.vercel.app/api?username=larijek&show_icons=true&theme=gruvbox)
 
 ## Tecnologias que eu uso no meu dia
 
